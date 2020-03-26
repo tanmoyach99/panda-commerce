@@ -14,7 +14,7 @@ margin-bottom: 100px;
     
 }
 .buy{
-    background-image: linear-gradient(to bottom, pink 0%, hotpink 100%);
+    background-image: linear-gradient(to bottom, red 0%, hotpink 100%);
     border-radius: 9px;
     color: aliceblue;
     cursor: pointer;
@@ -44,4 +44,18 @@ margin-bottom: 100px;
 .card{
     border: none;
     box-shadow: 10px 30px 100px lightslategray;
+    border-radius: 20px;
+}
+.card-footer{
+    color: white;
+    border-top: none;
+}
+#contact{
+    padding: 50px;
+}
+#contact h6{
+    color: lightgrey;
+}
+footer{
+    text-align: center;
 }
